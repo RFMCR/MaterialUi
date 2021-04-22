@@ -90,4 +90,6 @@ This section has moved here:
 This section has moved here:
 [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-https://www.youtube.com/watch?v=vyJU9efvUtQ
+###Material UI https://www.youtube.com/watch?v=vyJU9efvUtQ
+
+###https://platzi.com/tutoriales/1548-react/4065-guia-para-usar-github-pages-en-tus-proyectos-de-reactjs/

@@ -1,5 +1,7 @@
 import React from "react";
 import logo from "./logo.svg";
+import { createBrowserHistory } from "history";
+
 import "./App.css";
 import ButtonGroup from "@material-ui/core/ButtonGroup";
 import Button from "@material-ui/core/Button";
@@ -19,6 +21,10 @@ import { Paper, Grid } from "@material-ui/core";
 
 import { AppBar, Toolbar, IconButton } from "@material-ui/core";
 import { Menu } from "@material-ui/icons";
+
+export const history = createBrowserHistory({
+  basename: process.env.PUBLIC_URL,
+});
 
 const theme = createMuiTheme({
   typography: {
